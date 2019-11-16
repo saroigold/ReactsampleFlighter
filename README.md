@@ -1,2 +1,0 @@
-# ReactsampleFlighter
-Created with CodeSandbox
